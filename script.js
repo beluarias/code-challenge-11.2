@@ -1,4 +1,4 @@
-const url = "https://crudcrud.com/api/adc54d7744e946cd8ffc1851accabb6d/prueba000";
+const url = "https://jsonplaceholder.typicode.com/users";
 
 document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("enviar").addEventListener("click", () => {
